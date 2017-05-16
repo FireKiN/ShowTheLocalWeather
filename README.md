@@ -1,2 +1,2 @@
 # ShowTheLocalWeather
-A simple repository showing the code for a website that shows your local weather. Based on FreeCodeCamp tasks.
+This website was made for the [FreeCodeCamp](https://www.freecodecamp.com/challenges/build-a-wikipedia-viewer) Challenge at the provided link. 
