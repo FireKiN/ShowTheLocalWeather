@@ -1,2 +1,2 @@
 # ShowTheLocalWeather
-This website was made for the [FreeCodeCamp](https://www.freecodecamp.com/challenges/build-a-wikipedia-viewer) Challenge at the provided link. 
+This website was made for the [FreeCodeCamp](https://www.freecodecamp.com/challenges/show-the-local-weather) Challenge at the provided link. 
